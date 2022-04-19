@@ -12,5 +12,4 @@ public class FibonacciFluxApplication {
         SpringApplication.run(FibonacciFluxApplication.class, args);
     }
 
-
 }
